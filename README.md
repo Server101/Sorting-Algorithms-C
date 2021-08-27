@@ -4,7 +4,7 @@
 # Sorting-Algorithms-C
 C++  Clocking the processing time to sort data using algorithms. /HEAP SORT/ BUBBLE SORT/ INSERTION SORT/ Iterative and recursive methods.
 
-![well2](https://user-images.githubusercontent.com/57880227/131073218-48f47fe9-3fa4-4801-bdd8-261925881d0c.gif)
+![GifMaker_20210827005218408](https://user-images.githubusercontent.com/57880227/131073792-3b6ddbe4-7fcd-4aed-a0e3-198946aee9c3.gif)
 
 https://user-images.githubusercontent.com/57880227/131072925-0c2387bc-3d94-42a4-b5eb-57c411cdb820.mp4
 
