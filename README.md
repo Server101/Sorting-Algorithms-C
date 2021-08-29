@@ -2,7 +2,7 @@
 
 
 # Sorting-Algorithms-C
-C++  Clocking the processing time to sort data using algorithms. /Heap Sort / Bubble Sort/ Insertion Sort/ Merge Sort/ Iterative and recursive methods.</br></br>
+C++ Clocking the processing time to sort data using algorithms. /Heap Sort / Bubble Sort/ Insertion Sort/ Merge Sort/ Quick Sort/ Iterative and recursive methods.</br></br>
 
 The purpose of this project is to calculate the processing time for different sorting algorithms. In order to record the compute time the clocks() package is used including CLOCKS_PER_SEC. Random data is generated and sorted up to 1,000,000. The speed depends on the machine. </br>
 
